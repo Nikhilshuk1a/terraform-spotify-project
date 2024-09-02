@@ -36,6 +36,5 @@ In this project, we'll demonstrate how to use Terraform to manage Spotify resour
 
 1. **Clone this repository:**
    ```bash
-   git clone https://github.com/Nikhilshuk1a/spotify-terraform.git
-   cd spotify-terraform
+   git clone https://github.com/Nikhilshuk1a/terraform-spotify-project.git
    ```
