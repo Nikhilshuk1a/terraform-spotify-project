@@ -176,8 +176,7 @@ In this project, we'll demonstrate how to use Terraform to manage Spotify resour
 
 ### Step 7: Verify Your Playlist
 
-- After applying the Terraform configuration, you should see the changes on spotify :
-- 
+- After applying the Terraform configuration, you should see the changes on **Spotify**  
 Outputs:
 
 playlist_url = "https://open.spotify.com/playlist/<playlist_ID>"
@@ -195,5 +194,5 @@ Contributions are welcome! Please open an issue or submit a pull request with an
 
 ----->
 
-Enjoy creating your Spotify playlists with Terraform! 🎵
+## Enjoy creating your Spotify playlists with Terraform! 🎵
 
