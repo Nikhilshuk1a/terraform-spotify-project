@@ -49,7 +49,7 @@ In this project, we'll demonstrate how to use Terraform to manage Spotify resour
 
 3. **Configure Redirect URI**:
    - Click the green **Edit Settings** button on the top right.
-   - Add the following URI in the **Redirect URI** field: `**http://localhost:27228/spotify_callback**`
+   - Add the following URI in the **Redirect URI** field: **`http://localhost:27228/spotify_callback`**
    - Click **Add** and then **Save** to update the settings.
 
 ### Step 2: Run Authorization Server
